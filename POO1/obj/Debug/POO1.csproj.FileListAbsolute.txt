@@ -1,0 +1,10 @@
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\bin\Debug\POO1.exe.config
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\bin\Debug\POO1.exe
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\bin\Debug\POO1.pdb
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\obj\Debug\POO1.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\obj\Debug\POO1.Form1.resources
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\obj\Debug\POO1.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\obj\Debug\POO1.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\obj\Debug\POO1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\obj\Debug\POO1.exe
+C:\Users\alexi\OneDrive\Escritorio\Programacion\POO1\POO1\obj\Debug\POO1.pdb
